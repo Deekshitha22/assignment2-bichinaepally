@@ -17,3 +17,10 @@ Hyderabad is a place where all sort of people live irrespective of the **religio
  3.  Reach Rajeev gandhi international airport which is located in hyderabad.
  4. My favorite destination hyderabad has arrived.
  5. Go to home in cab.
+ * bring games
+   *Go to sports shop 
+   *Buy games  
+      *hockey
+      *cricket bat and ball
+   *Buy snacks
+   *go back to favorite place
