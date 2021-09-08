@@ -43,4 +43,5 @@ I like south Indian food, below are the food items
 
 # favourite quotes
 > Life is a journey, not a destination. - *Ralph waldo emerson*.
+
 > Not all who wander are lost. - *J.R.R Tolkien*.
