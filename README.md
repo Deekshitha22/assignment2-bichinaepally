@@ -38,3 +38,9 @@ I like south Indian food, below are the food items
 | dosa                      |  Hyderabad     | 100      |
 | vada                      |  Hyderabad     | 50       |
 | sambar                    |  Hyderabad     | 30       |
+
+***
+
+# favourite quotes
+> Life is a journey, not a destination. - *Ralph waldo emerson*.
+> Not all who wander are lost. - *J.R.R Tolkien*.
