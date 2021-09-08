@@ -24,3 +24,6 @@ Hyderabad is a place where all sort of people live irrespective of the **religio
       *cricket bat and ball
    *Buy snacks
    *go back to favourite place
+
+
+![About me](https://github.com/Deekshitha22/assignment2-bichinaepally/blob/main/AboutMe.md)
