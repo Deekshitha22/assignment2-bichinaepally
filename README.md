@@ -27,3 +27,14 @@ Hyderabad is a place where all sort of people live irrespective of the **religio
 
 
 ![About me](https://github.com/Deekshitha22/assignment2-bichinaepally/blob/main/AboutMe.md)
+
+***
+
+# favorite foods
+I like south Indian food, below are the food items
+|  Food items               | location       |  cost    |
+| --------------------------| -------------- | ---------|
+| idli                      |  Hyderabad     | 60       |
+| dosa                      |  Hyderabad     | 100      |
+| vada                      |  Hyderabad     | 50       |
+| sambar                    |  Hyderabad     | 30       |
